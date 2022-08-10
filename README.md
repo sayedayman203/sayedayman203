@@ -9,11 +9,11 @@
     />
   </a>
 
-  <a href="https://api.daily.dev/sayedayman203" target="_blank">
+  <a href="https://app.daily.dev/sayedayman203" target="_blank">
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/f113f1f8d0794fcb91186624b49e3819.png?r=zs1zs1"
+      src="https://api.daily.dev/devcards/f113f1f8d0794fcb91186624b49e3819.png?r=nrr"
       alt="Sayed Ayman's Dev Card"
     />
   </a>
